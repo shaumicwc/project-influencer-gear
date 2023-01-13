@@ -90,11 +90,21 @@ styles----------------------------
     /* background-image: url(./images/camera.png); */
     background-repeat: no-repeat;
     width: 600px;
-
     background-image: url(./images/logos/Circle\ design-svg-new.svg);
     background-size: contain;
-    
+}
+
+/* .............................header & banner style :end--------------------
+--------------------------------------------------------------------------- */
+.ecom {
 
 
-
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 40px 60px;
+    margin-left: 165px;
+    margin-right: 165px;
 }
